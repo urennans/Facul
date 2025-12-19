@@ -1,0 +1,2 @@
+/home/monica/trabalhos/TrabalhoFinal_driver/pico_firware/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/edit_cache.dir
+/home/monica/trabalhos/TrabalhoFinal_driver/pico_firware/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/rebuild_cache.dir

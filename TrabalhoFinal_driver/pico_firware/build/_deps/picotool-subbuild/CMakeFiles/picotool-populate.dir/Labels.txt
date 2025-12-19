@@ -1,0 +1,14 @@
+# Target labels
+ picotool-populate
+# Source files and their labels
+/home/monica/trabalhos/TrabalhoFinal_driver/pico_firware/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate
+/home/monica/trabalhos/TrabalhoFinal_driver/pico_firware/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate.rule
+/home/monica/trabalhos/TrabalhoFinal_driver/pico_firware/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate-complete.rule
+/home/monica/trabalhos/TrabalhoFinal_driver/pico_firware/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-build.rule
+/home/monica/trabalhos/TrabalhoFinal_driver/pico_firware/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-configure.rule
+/home/monica/trabalhos/TrabalhoFinal_driver/pico_firware/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-download.rule
+/home/monica/trabalhos/TrabalhoFinal_driver/pico_firware/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-install.rule
+/home/monica/trabalhos/TrabalhoFinal_driver/pico_firware/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-mkdir.rule
+/home/monica/trabalhos/TrabalhoFinal_driver/pico_firware/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-patch.rule
+/home/monica/trabalhos/TrabalhoFinal_driver/pico_firware/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-test.rule
+/home/monica/trabalhos/TrabalhoFinal_driver/pico_firware/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-update.rule

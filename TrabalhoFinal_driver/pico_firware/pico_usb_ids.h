@@ -1,0 +1,18 @@
+// pico_usb_ids.h - Sobrescreve IDs USB do Pico
+#ifndef PICO_USB_IDS_H
+#define PICO_USB_IDS_H
+
+// Sobrescreve os IDs padrão do Pico
+#undef PICO_DEFAULT_USB_VID
+#undef PICO_DEFAULT_USB_PID
+#undef PICO_DEFAULT_USB_CDC_ID_STRING
+#undef PICO_DEFAULT_USB_CDC_ID_MANUFACTURER  
+#undef PICO_DEFAULT_USB_CDC_ID_PRODUCT
+
+#define PICO_DEFAULT_USB_VID 0x1209
+#define PICO_DEFAULT_USB_PID 0x0001
+#define PICO_DEFAULT_USB_CDC_ID_STRING "123456"
+#define PICO_DEFAULT_USB_CDC_ID_MANUFACTURER "Raspberry Pi"
+#define PICO_DEFAULT_USB_CDC_ID_PRODUCT "Custom USB Device"
+
+#endif

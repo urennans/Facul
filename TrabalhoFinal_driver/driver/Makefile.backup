@@ -1,0 +1,12 @@
+# Nome do módulo
+obj-m += pico_usb.o
+
+# Kernel atual
+KDIR := /lib/modules/$(shell uname -r)/build
+PWD  := $(shell pwd)
+
+all:
+	make -C $(KDIR) M=$(PWD) modules
+
+clean:
+	make -C $(KDIR) M=$(PWD) clean
